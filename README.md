@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Rohit Ghadge</h1>
 <h3 align="center">A passionate Full Stak developer from India</h3>
 
+![git](https://user-images.githubusercontent.com/57706022/154037731-53e83986-089b-483a-910f-720c7f3c1872.jpeg)
+
 - 📫 How to reach me **rohitghadge1000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
